@@ -1,0 +1,8 @@
+@"
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+invoice_agent.db
+"@ | Set-Content .gitignore
